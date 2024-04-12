@@ -6,7 +6,7 @@ subtitle: <a href='https://www.nuist.edu.cn/main.htm'>Nanjing University of Info
 
 profile:
   align: right
-  image: YumingSu.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>86-25-58731101</p>

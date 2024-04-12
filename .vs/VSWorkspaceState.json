@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\img\\publication_preview",
+    "\\bin",
+    "\\lighthouse_results",
+    "\\readme_preview",
     "\\_bibliography",
     "\\_data",
     "\\_pages"
   ],
-  "SelectedNode": "\\_pages\\profiles.md",
+  "SelectedNode": "\\_pages\\about.md",
   "PreviewInSolutionExplorer": false
 }
